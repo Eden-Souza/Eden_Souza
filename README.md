@@ -1,5 +1,5 @@
 
-![Design sem nome(1)](https://github.com/Eden-Souza?tab=repositories)
+![Design sem nome(1)](https://github.com/user-attachments/assets/213567f6-4ebe-488c-98f6-06f26b57a4ba)
 # <p align="center">          Data Scientist
 
 Meu objetivo é trilhar o caminho para me tornar um Cientista de Dados, utilizando minha paixão pela análise de dados para impulsionar a tomada de decisões pelo método *Data Driven Decision*. Estou focado em me desenvolver para me inserir na área de dados/tecnologia, dedicando esforço ao aprendizado de *consultas em banco de dados*, *produção de dashboards* e *storytelling*. Meu foco é sempre encontrar formas de melhorar ou otimizar processos e visualizações, contribuindo para a eficiência e eficácia das decisões empresariais.
@@ -13,7 +13,7 @@ Com previsão de formatura em junho de 2025 pela Universidade Federal de Uberlâ
 ### Cerificado Profissional de Análise de Dados do Google
 Completei um curso de desenvolvimento e projeto de conclusão que me certificou como Analista de Dados Júnior. Durante esse período, aprendi os fundamentos sobre dados e como realizar análises com eficiência. O processo inclui etapas de perguntar, preparar, processar, analisar, compartilhar e agir. Seguindo esses passos, é possível tomar decisões baseadas em dados de forma precisa, evitando vieses e inconsistências.
 
-### <p align="center"> Aperte [AQUI](https://github.com/Eden-Souza/Projects) Para Ver Meu Portifolio de Análise de Dados
+### <p align="center"> Aperte [AQUI](https://github.com/Eden-Souza?tab=repositories) Para Ver Meu Portifolio de Análise de Dados
 </p>
 <br/>
 
